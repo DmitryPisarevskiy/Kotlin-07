@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity(), MainView {
             0 -> vb?.btnCounter1?.text = text
             1 -> vb?.btnCounter2?.text = text
             2 -> vb?.btnCounter3?.text = text
+
         }
     }
 
